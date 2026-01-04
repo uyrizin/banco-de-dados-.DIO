@@ -12,5 +12,5 @@ O objetivo é praticar conceitos de **modelagem de dados**, **SQL** e **administ
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/uyrizin/Projeto-ScreenSound.git
+https://github.com/uyrizin/banco-de-dados-.DIO.git
 
