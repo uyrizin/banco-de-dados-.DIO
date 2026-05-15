@@ -1,0 +1,1 @@
+- [https://docs.microsoft.com/pt-br/azure/architecture/aws-professional/services](https://docs.microsoft.com/pt-br/azure/architecture/aws-professional/services)
